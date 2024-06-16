@@ -45,5 +45,7 @@ Integration with speech recognition
 ### Output :Prediction for Next 15 Words
 ![3](https://github.com/VanshGupta1905/Next-Word-Predictor/assets/97848559/b06c40a4-2bb2-4650-b153-63678e8e6071)
 
-LSTM Architecture
-![image](https://github.com/VanshGupta1905/Next-Word-Predictor/assets/97848559/9d610c39-d238-48e9-b494-b01d2b3e4997)
+## LSTM Architecture
+
+
+![4](https://github.com/VanshGupta1905/Next-Word-Predictor/assets/97848559/17388e55-51e0-45a5-b044-c97df2ff6891)

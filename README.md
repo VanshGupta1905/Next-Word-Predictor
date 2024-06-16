@@ -38,7 +38,7 @@ Multilingual support
 Domain-specific models (e.g., medical, legal)
 Integration with speech recognition
 
-### Training Data
+### Example Training Data
 ![1](https://github.com/VanshGupta1905/Next-Word-Predictor/assets/97848559/12702109-e931-4d4c-ab0c-7d3271bfe8d0)
 ### Input
 ![2](https://github.com/VanshGupta1905/Next-Word-Predictor/assets/97848559/ecae0b98-025f-44a2-96ec-4ac7e77f7aa6)

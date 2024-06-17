@@ -5,19 +5,27 @@ Predict the next word in a sentence or text passage using the power of Long Shor
 
 ## Features
 
-LSTM-Based Model: Employs LSTM architecture, known for its ability to capture long-term dependencies in text.
-Customizable Vocabulary: Train on your own dataset or use pre-trained models.
-Flexible Prediction: Generate suggestions for single words or longer phrases.
-Easy Integration: Use the included API or functions to incorporate word prediction into your own applications.
+LSTM-Based Model:
+
+Employs LSTM architecture, known for its ability to capture long-term dependencies in text.
 
 ## Data Preprocessing
 Text data is cleaned, tokenized, and converted into numerical representations.
+
 Model Architecture: An LSTM model is defined, often including layers for embedding, LSTM cells, and output.
+
 Training: The model learns from the text data, adjusting its parameters to minimize prediction errors.
-Inference: The trained model takes a sequence of words as input and outputs probabilities for the next word. The word with the highest probability is selected.
+
+## Inference: 
+
+The trained model takes a sequence of words as input and outputs probabilities for the next word.
+
+The word with the highest probability is selected.
 
 ## Customization
+
 Model Hyperparameters: Experiment with different LSTM configurations, number of layers, learning rates, etc.
+
 Training Data: Use diverse and relevant text sources to improve prediction accuracy.
 
 ### Example: 
